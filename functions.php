@@ -8,15 +8,11 @@ if ( ! function_exists( 'caninclub_setup' ) ) :
 		
 		// Automatic feed
 		add_theme_support( 'automatic-feed-links' );
-		
-		// Set content-width
-		global $content_width;
-		if ( ! isset( $content_width ) ) $content_width = 620;
+
 		
 		// Post thumbnails
 		add_theme_support( 'custom-header' );
 		add_theme_support( 'post-thumbnails' );
-		set_post_thumbnail_size( 620, 9999 );
 		
 		// Title tag
 		add_theme_support( 'title-tag' );
