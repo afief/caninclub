@@ -1,5 +1,7 @@
 # Canin Club WordPress Theme
-This is the official repository for the Canin Club WordPress Theme, a beautiful and responsive theme for dog lovers.
+This is the official repository for the Canin Club WordPress Theme
+
+![Alt text](/screenshot.png "Optional Title")
 
 ## Installation
 To install the Canin Club WordPress Theme, please follow these steps:
